@@ -2052,7 +2052,14 @@ Partial Class frmMSGP
 		'lbtnSearchSysLink
 		'
 		Me.lbtnSearchSysLink.AutoSize = True
+<<<<<<< HEAD
 		Me.lbtnSearchSysLink.Location = New System.Drawing.Point(353, 172)
+=======
+		
+		Me.lbtnSearchSysLink.Location = New System.Drawing.Point(5, 15)
+		Me.lbtnSearchSysLink.Location = New System.Drawing.Point(5, 15)
+		
+>>>>>>> 4a802a2b8fd6a66678b8894eea1ae4c6312d108b
 		Me.lbtnSearchSysLink.Margin = New System.Windows.Forms.Padding(2, 0, 2, 0)
 		Me.lbtnSearchSysLink.Name = "lbtnSearchSysLink"
 		Me.lbtnSearchSysLink.Size = New System.Drawing.Size(155, 13)
