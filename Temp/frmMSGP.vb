@@ -1615,7 +1615,5 @@ Public Class frmMSGP
 
 	Public Sub MyTest(int As Integer)
 		Dim restult As Integer = int + int
-
-
 	End Sub
 End Class
