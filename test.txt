@@ -1,8 +1,8 @@
 Mode                LastWriteTime         Length Name                                                                                                                                                                    
 ----                -------------         ------ ----                                                                                                                                                                    
 d-----       2019/12/06     08:41                Temp
-d-----       2019/12/06     08:41                Temp.Tests
--a----       2019/12/06     08:41           2581 .gitattributes
--a----       2019/12/06     08:41           4565 .gitignore
--a----       2019/12/06     08:41           1594 Temp.sln
+d-----       2019/52/06     08:41                Temp.Tests
+-a----       2019/12/06     08:41           2581 .gitadsdibutes
+-a----       2019/11/06     08:41           4565 .gitignsdsore
+-a----       2019/12/04     08:41           1594 Temp.sln
 -a----       2019/12/06     08:41              0 test.txt
